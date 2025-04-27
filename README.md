@@ -14,3 +14,8 @@
 ### Agradecimientos:
 
 * Agradezco la propuesta de éste ejercicio porque me permite focalizarme en algo "completo" y espero acabarlo más allá en el tiempo
+
+
+### Links:
+
+* GitHub: **[Gestión de Torneos](https://github.com/MLT93/GESTION_TORNEOS)**
